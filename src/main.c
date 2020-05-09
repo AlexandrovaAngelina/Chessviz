@@ -1,8 +1,5 @@
-#include "board.c"
 #include "board.h"
-#include "board_print_plain.c"
 #include "board_print_plain.h"
-#include "board_read.c"
 #include "board_read.h"
 
 #include <stdio.h>
